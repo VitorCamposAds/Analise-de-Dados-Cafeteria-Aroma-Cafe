@@ -18,7 +18,7 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 
 ### 1. Evolução da Receita (Gráfico de Linha)
 
-![Evolução do Faturamento](area.PNG)
+<img src="[URL_da_Imagem"](https://github.com/VitorCamposAds/Analise-de-Dados-Cafeteria-Aroma-Cafe/blob/main/area.PNG) alt="Texto Alternativo">
 
 
 - Receita cresceu de **R$ 81.677,74 em janeiro** para **R$ 166.485,88 em junho** (+104%).
