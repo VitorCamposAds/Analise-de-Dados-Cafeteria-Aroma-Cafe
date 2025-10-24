@@ -74,4 +74,4 @@ Os gráficos utilizados nesta análise estão disponíveis no **Google Sheets**:
 ## Tecnologias e Ferramentas
 
 - Google Sheets para análise e visualização de dados
-- Markdown para documentação executiva
+- Relatório em PDF
