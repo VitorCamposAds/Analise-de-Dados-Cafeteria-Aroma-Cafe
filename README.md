@@ -69,21 +69,28 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 
 ---
 
-## Conclusão
+### 8. Crescimento % Mensal das Transações por Loja (Gráfico de Linha)
 
-A rede apresenta **excelente desempenho no primeiro semestre**, com:
+O gráfico de linha de crescimento percentual mensal das transações evidencia a variação do fluxo de clientes em cada loja ao longo do semestre.
 
-- Receita crescente e consistente;
-- Equilíbrio entre regiões;
-- Categorias principais sustentando o faturamento.
+<img width="1249" height="238" alt="crescimento" src="https://github.com/user-attachments/assets/7b597dff-9c9d-4760-9c9a-04aced285022" />
 
-**Oportunidades de melhoria:**
 
-- Reduzir dependência de poucas categorias;
-- Elevar o ticket médio em itens de alto volume;
-- Diversificar portfólio e monitorar indicadores de rentabilidade.
+- **Astoria:** apresentou queda inicial em fevereiro (-7%), seguida por crescimento expressivo em março (+31%) e manutenção de tendência positiva nos meses seguintes, encerrando junho com +4%.
+- **Hell’s Kitchen:** apresentou leve retração em fevereiro (-4%) e crescimento consistente nos meses seguintes, alcançando +7% em junho.
+- **Lower Manhattan:** comportamento semelhante, com queda inicial em fevereiro (-5%) e recuperação gradual, fechando junho com +5%.
 
-Em síntese, a saúde da rede é **positiva e estável**, com perspectivas de crescimento sustentável mediante ações estratégicas.
+O gráfico mostra que, apesar de pequenas flutuações no início do semestre, todas as lojas seguem uma **tendência de crescimento positivo**, reforçando a expansão uniforme da rede e o aumento contínuo do número de transações.
+
+---
+
+### Conclusão
+
+A análise consolidada dos indicadores do primeiro semestre de 2023 atesta o excelente desempenho da rede de cafeterias. A receita cresceu de forma consistente, e o crescimento percentual mensal das transações demonstra uma expansão positiva e homogênea entre as lojas. Flutuações pontuais no início do período, como a queda inicial da **Astoria** em fevereiro (-7%) e da **Lower Manhattan** (-5%), foram rapidamente superadas, com todas as unidades retomando a tendência positiva e fechando o semestre com taxas de crescimento sólidas (**Astoria: +4%; Hell’s Kitchen: +7%; Lower Manhattan: +5%**).
+
+O faturamento é robustamente sustentado pelas categorias principais (**Coffee, Tea e Bakery**), indicando a maturidade e solidez do modelo de negócio.
+
+Contudo, a dependência de poucas categorias e o baixo ticket médio em itens de alto volume representam desafios estratégicos para o segundo semestre. Para garantir uma expansão sustentável e consistente, recomenda-se a implementação imediata de estratégias focadas na **diversificação do portfólio**, **elevação do ticket médio** e **monitoramento contínuo dos indicadores de rentabilidade**.
 
 ---
 
