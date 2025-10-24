@@ -18,6 +18,9 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 
 ### 1. Evolução da Receita (Gráfico de Linha)
 
+<img width="1131" height="324" alt="linha" src="https://github.com/user-attachments/assets/0216b69f-c151-44d9-8167-447ac0ddae36" />
+
+
 - Receita cresceu de **R$ 81.677,74 em janeiro** para **R$ 166.485,88 em junho** (+104%).
 - Indica crescimento consistente de vendas e possível aumento no mix de produtos.
 
