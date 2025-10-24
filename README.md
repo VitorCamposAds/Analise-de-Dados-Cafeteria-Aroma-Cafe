@@ -18,7 +18,7 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 
 ### 1. Evolução da Receita (Gráfico de Linha)
 
-![Evolução do Faturamento](Imagens/area.PNG)
+![Evolução do Faturamento](Imagens/barras.PNG)
 
 
 - Receita cresceu de **R$ 81.677,74 em janeiro** para **R$ 166.485,88 em junho** (+104%).
