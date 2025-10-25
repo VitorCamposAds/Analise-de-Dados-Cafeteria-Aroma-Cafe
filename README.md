@@ -100,7 +100,7 @@ Os gráficos utilizados nesta análise estão disponíveis no **Google Sheets**:
 [📊 Painel de Controle Aroma Café](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)
 
 
-📄 Baixar Relatório Completo em PDF: [Relatorio_Executivo_Saude_Rede_Cafeterias.pdf](https://github.com/user-attachments/files/23142351/Relatorio_Executivo_Saude_Rede_Cafeterias.pdf)
+[📄 Baixar Relatório Completo em PDF:][Relatorio_Executivo_Saude_Rede_Cafeterias.pdf](https://github.com/user-attachments/files/23142351/Relatorio_Executivo_Saude_Rede_Cafeterias.pdf)
 
 ---
 
