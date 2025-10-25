@@ -96,7 +96,7 @@ Contudo, a dependência de poucas categorias e o baixo ticket médio em itens de
 
 ## Arquivo de Referência
 
-Os gráficos utilizados nesta análise estão disponíveis no **Google Sheets**:  
+Os gráficos e dataset utilizados nesta análise estão disponíveis no **Google Sheets**:  
 [📊 Painel de Controle Aroma Café](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)
 
 
