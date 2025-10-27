@@ -36,7 +36,7 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 - Receita liderada por **Coffee (R$ 269.952,45)**, **Tea (R$ 196.405,95)** e **Bakery (R$ 82.315,64)**.
 - Produtos como **Coffee Beans** e **Branded**, apesar do menor volume, têm alto valor unitário, mostrando potencial de **upsell**.
 
-<img width="522" height="419" alt="3_barra_v" src="https://github.com/user-attachments/assets/c7c7c08f-e7db-40e8-8a58-1e51c3ebaedc" />
+<img width="531" height="379" alt="3_barra_v" src="https://github.com/user-attachments/assets/c3a1ee9d-4242-40bb-99b9-8a6198e13bc9" />
 
 
 ### 4. Participação Percentual por Categoria (Gráfico de Barras Empilhadas)
