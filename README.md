@@ -73,9 +73,7 @@ A análise adota uma abordagem executiva e descritiva, interpretando os principa
 
 O gráfico de linha de crescimento percentual mensal das transações evidencia a variação do fluxo de clientes em cada loja ao longo do semestre.
 
-
-<img width="1214" height="337" alt="8_linha2" src="https://github.com/user-attachments/assets/85edda01-d2e9-4f38-ac3a-a38be457ef90" />
-
+<img width="1214" height="337" alt="8_linha2" src="https://github.com/user-attachments/assets/5986ff15-c633-40c5-a881-e0aa84a9a108" />
 
 - **Astoria:** apresentou queda inicial em fevereiro (-7%), seguida por crescimento expressivo em março (+31%) e manutenção de tendência positiva nos meses seguintes, encerrando junho com +4%.
 - **Hell’s Kitchen:** apresentou leve retração em fevereiro (-4%) e crescimento consistente nos meses seguintes, alcançando +7% em junho.
