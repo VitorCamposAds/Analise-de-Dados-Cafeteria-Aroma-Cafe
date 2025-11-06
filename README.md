@@ -34,6 +34,8 @@ A análise descritiva revelou:
 
 ## 🔍 2. Análise Diagnóstica
 
+🔗 **[Visualizar painel interativo no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**
+
 Objetivo: identificar **quais fatores** mais impactaram o faturamento.  
 Foram testadas **cinco hipóteses** por meio de regressão linear, avaliando relações entre preço, tamanho, transações e receita.
 
