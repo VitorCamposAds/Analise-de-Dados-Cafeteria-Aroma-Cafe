@@ -29,7 +29,7 @@ A análise descritiva revelou:
 - Categorias mais vendidas: **Coffee, Tea e Bakery**, representando mais de **80%** do volume total.  
 - Receita bem distribuída entre as três regiões (diferença < 2,5%), evidenciando **homogeneidade operacional**.  
 - Oportunidade estratégica: elevar o **ticket médio** e **diversificar o portfólio**.
-- - [📄 Relatório PDF 2](https://drive.google.com/file/d/1kH23c29RuvYmTnvzxj5Ss-9qzx-KCvhD/view?usp=sharing)
+- - [📄 Relatório PDF](https://drive.google.com/file/d/1kH23c29RuvYmTnvzxj5Ss-9qzx-KCvhD/view?usp=sharing)
 
 
 
