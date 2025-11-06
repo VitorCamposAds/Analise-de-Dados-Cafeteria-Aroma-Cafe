@@ -45,7 +45,8 @@ Principais conclusões:
 - O **número de transações** mostrou-se o fator mais fortemente correlacionado ao crescimento do faturamento.  
 - As demais variáveis apresentaram tendências na direção esperada, porém sem significância estatística robusta.  
 - Tamanho amostral reduzido (4–9 observações) limita o poder inferencial — recomenda-se ampliar a base de dados.
-- Relatório PDF: (https://drive.google.com/file/d/10kGdBZpVY-ox88B625mdNdS_-aigE4K-/view?usp=sharing)
+- [📄 Relatório PDF](https://drive.google.com/file/d/10kGdBZpVY-ox88B625mdNdS_-aigE4K-/view?usp=sharing)
+
 
 
 
