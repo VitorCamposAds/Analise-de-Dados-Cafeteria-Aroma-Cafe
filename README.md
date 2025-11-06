@@ -29,6 +29,8 @@ A análise descritiva revelou:
 - Categorias mais vendidas: **Coffee, Tea e Bakery**, representando mais de **80%** do volume total.  
 - Receita bem distribuída entre as três regiões (diferença < 2,5%), evidenciando **homogeneidade operacional**.  
 - Oportunidade estratégica: elevar o **ticket médio** e **diversificar o portfólio**.
+- Relatório PDF: [Relatório_Aroma_Café_Descritiva.pdf](https://github.com/user-attachments/files/23403603/Relatorio_Aroma_Cafe_Descritiva.pdf)
+
 
 ---
 
