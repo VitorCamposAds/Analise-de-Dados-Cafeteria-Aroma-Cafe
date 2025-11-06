@@ -37,7 +37,7 @@ As análises estão organizadas em quatro etapas principais:
 ## 🔍 2. Análise Diagnóstica — Fatores de Impacto no Faturamento
 
 🔗 **[Visualizar painel interativo no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**  
-📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/10kGdBZpVY-ox88B625mdNdS_-aigE4K-/view?usp=sharing)**
+📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/1klAah9WAJBTJ6ensmtvnk8XSc4AgL6fC/view?usp=sharing)**
 
 **Objetivo:** identificar **quais fatores** mais impactaram o faturamento no período analisado.  
 Foram testadas **cinco hipóteses** por meio de regressão linear, avaliando relações entre **preço**, **tamanho**, **volume de transações** e **receita**.
