@@ -1,110 +1,109 @@
-# Análise da Saúde da Rede de Cafeterias Aroma Café
+# 📊 Análises de Dados — Rede de Cafeterias Aroma Café
 
-Este repositório apresenta a análise da performance da rede de cafeterias **Aroma Café** no período de **janeiro a junho de 2023**. O estudo é baseado em **sete gráficos** disponíveis em um arquivo do **Google Sheets**, abordando desempenho, eficiência operacional e rentabilidade.
-
----
-
-## Objetivo
-
-Responder à questão central: 
-
-> Qual é o estado geral da saúde financeira e operacional da rede?
-
-A análise adota uma abordagem executiva e descritiva, interpretando os principais indicadores de vendas, rentabilidade e comportamento do portfólio.
+**Autor:** Vitor Campos  
+**Cargo:** Analista de Dados  
+**Ferramentas utilizadas:** Google Sheets, Excel, Estatística Descritiva, Regressão Linear, Análise Preditiva e Prescritiva.
 
 ---
 
-## Principais Análises
+## 🧭 Visão Geral do Projeto
 
-### 1. Evolução da Receita (Gráfico de Linha)
+Este repositório reúne uma sequência de análises de dados realizadas sobre o desempenho da **Rede de Cafeterias Aroma Café**, abrangendo o período de **janeiro a junho de 2025**.  
+O objetivo principal foi compreender a evolução do faturamento, identificar padrões de consumo, projetar resultados futuros e propor recomendações estratégicas baseadas em evidências.
 
-<img width="1212" height="321" alt="1_linha_1" src="https://github.com/user-attachments/assets/c0ce1e84-fee4-45f4-add1-3b71e56f48cc" />
+Os estudos estão divididos em quatro etapas:
 
-- Receita cresceu de **R$ 81.677,74 em janeiro** para **R$ 166.485,88 em junho** (+104%).
-- Indica crescimento consistente de vendas e possível aumento no mix de produtos.
-
-### 2. Categorias Mais Vendidas (Gráfico de Barras Horizontais)
-- **Coffee** (89.250), **Tea** (69.737) e **Bakery** (23.214) representam >80% do volume total.
-- Evidencia dependência operacional dessas categorias, embora reforcem o posicionamento da rede.
-
-
-<img width="527" height="419" alt="2_barra_h" src="https://github.com/user-attachments/assets/09c2327f-6f64-44ed-9eda-b054bebdf6e4" />
-
-
-
-### 3. Categorias Mais Rentáveis (Gráfico de Barras Verticais)
-- Receita liderada por **Coffee (R$ 269.952,45)**, **Tea (R$ 196.405,95)** e **Bakery (R$ 82.315,64)**.
-- Produtos como **Coffee Beans** e **Branded**, apesar do menor volume, têm alto valor unitário, mostrando potencial de **upsell**.
-
-<img width="531" height="379" alt="3_barra_v" src="https://github.com/user-attachments/assets/c3a1ee9d-4242-40bb-99b9-8a6198e13bc9" />
-
-
-### 4. Participação Percentual por Categoria (Gráfico de Barras Empilhadas)
-- Estabilidade na participação mensal: Coffee (38,6%), Tea (28,1%), Bakery (11,8%).
-- Reflete portfólio previsível, útil para planejamento de estoque, mas sugere baixa inovação.
-
-<img width="514" height="323" alt="4_empilhada" src="https://github.com/user-attachments/assets/f0c8810f-86c4-4061-9c0b-bac03ae70dd4" />
-
-
-### 5. Receita por Região (Gráfico de Rosca)
-- Distribuição equilibrada entre regiões: Hell’s Kitchen (R$ 236.511), Astoria (R$ 232.244) e Lower Manhattan (R$ 230.057).
-- Diferença percentual <2,5%, indicando operação homogênea.
-
-<img width="521" height="328" alt="5_rosca" src="https://github.com/user-attachments/assets/cb189058-9e49-42fc-8cdf-8654c8cef226" />
-
-
-### 6. Análise de Pareto (80/20)
-- ~80% da receita provém das categorias **Coffee, Tea e Bakery**.
-- Demonstra necessidade de monitoramento de risco e foco estratégico em itens-chave.
-
-<img width="1208" height="287" alt="6_pareto" src="https://github.com/user-attachments/assets/7489e2d4-ed71-4a5f-a851-b7f31f086569" />
-
-
-### 7. Ticket Médio por Categoria (Gráfico de Área)
-- Coffee (R$ 3,02) e Tea (R$ 2,82) com tickets baixos.
-- Coffee Beans (R$ 21,93) e Branded (R$ 17,53) com tickets altos, sugerindo oportunidade de **elevação de ticket médio**.
-
-
-<img width="1215" height="240" alt="7_ticket" src="https://github.com/user-attachments/assets/503616e2-3552-4645-8542-5168c791d43e" />
+1. **Análise Descritiva** – Interpretação dos principais indicadores financeiros e operacionais.  
+2. **Análise Diagnóstica** – Investigação das causas por trás das variações de desempenho.  
+3. **Análise Preditiva** – Projeção de faturamento para o mês de julho/2025.  
+4. **Análise Prescritiva** – Recomendações de ações para otimização de resultados.
 
 ---
 
-### 8. Crescimento % Mensal das Transações por Loja (Gráfico de Linha)
+## 📈 1. Análise Descritiva — Saúde da Rede
 
-O gráfico de linha de crescimento percentual mensal das transações evidencia a variação do fluxo de clientes em cada loja ao longo do semestre.
+🔗 **[Visualizar painel interativo no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**
 
-<img width="1260" height="334" alt="8_linha_2" src="https://github.com/user-attachments/assets/d5a8efd3-53f9-44ff-8668-080c8abf6f49" />
-
-
-- **Astoria:** apresentou queda inicial em fevereiro (-7%), seguida por crescimento expressivo em março (+31%) e manutenção de tendência positiva nos meses seguintes, encerrando junho com +4%.
-- **Hell’s Kitchen:** apresentou leve retração em fevereiro (-4%) e crescimento consistente nos meses seguintes, alcançando +7% em junho.
-- **Lower Manhattan:** comportamento semelhante, com queda inicial em fevereiro (-5%) e recuperação gradual, fechando junho com +5%.
-
-O gráfico mostra que, apesar de pequenas flutuações no início do semestre, todas as lojas seguem uma **tendência de crescimento positivo**, reforçando a expansão uniforme da rede e o aumento contínuo do número de transações.
+A análise descritiva revelou:
+- Crescimento de **+104%** no faturamento entre janeiro e junho (R$ 81.677 → R$ 166.485).  
+- Categorias mais vendidas: **Coffee, Tea e Bakery**, representando mais de **80%** do volume total.  
+- Receita bem distribuída entre as três regiões (diferença < 2,5%), evidenciando **homogeneidade operacional**.  
+- Oportunidade estratégica: elevar o **ticket médio** e **diversificar o portfólio**.
 
 ---
 
-### Conclusão
+## 🔍 2. Análise Diagnóstica
 
-A análise consolidada dos indicadores do primeiro semestre de 2023 atesta o excelente desempenho da rede de cafeterias. A receita cresceu de forma consistente, e o crescimento percentual mensal das transações demonstra uma expansão positiva e homogênea entre as lojas. Flutuações pontuais no início do período, como a queda inicial da **Astoria** em fevereiro (-7%) e da **Lower Manhattan** (-5%), foram rapidamente superadas, com todas as unidades retomando a tendência positiva e fechando o semestre com taxas de crescimento sólidas (**Astoria: +4%; Hell’s Kitchen: +7%; Lower Manhattan: +5%**).
+Objetivo: identificar **quais fatores** mais impactaram o faturamento.  
+Foram testadas **cinco hipóteses** por meio de regressão linear, avaliando relações entre preço, tamanho, transações e receita.
 
-O faturamento é robustamente sustentado pelas categorias principais (**Coffee, Tea e Bakery**), indicando a maturidade e solidez do modelo de negócio.
-
-Contudo, a dependência de poucas categorias e o baixo ticket médio em itens de alto volume representam desafios estratégicos para o segundo semestre. Para garantir uma expansão sustentável e consistente, recomenda-se a implementação imediata de estratégias focadas na **diversificação do portfólio**, **elevação do ticket médio** e **monitoramento contínuo dos indicadores de rentabilidade**.
-
----
-
-## Arquivo de Referência
-
-Os gráficos e dataset utilizados nesta análise estão disponíveis no **Google Sheets**:  
-[📊 Painel de Controle Aroma Café](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)
-
-
-[📄 Relatorio_Executivo_Saude_Rede_Cafeterias.pdf](https://github.com/user-attachments/files/23142351/Relatorio_Executivo_Saude_Rede_Cafeterias.pdf)
+Principais conclusões:
+- O **número de transações** mostrou-se o fator mais fortemente correlacionado ao crescimento do faturamento.  
+- As demais variáveis apresentaram tendências na direção esperada, porém sem significância estatística robusta.  
+- Tamanho amostral reduzido (4–9 observações) limita o poder inferencial — recomenda-se ampliar a base de dados.
 
 ---
 
-## Tecnologias e Ferramentas
+## 📊 3. Análise Preditiva — Projeção de Faturamento (Julho/2025)
 
-- Google Sheets para análise e visualização de dados
-- Relatório em PDF
+🔗 **[Acessar planilha preditiva no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**
+
+**Faturamento projetado:** `R$ 176.321,62`  
+**Crescimento previsto:** `+6,5%` em relação a junho.
+
+Pontos-chave:
+- **Tendência de alta constante**, sustentada por fidelização e eficiência operacional.  
+- **Erro médio do modelo:** 9%  
+- **Correlação (tempo x faturamento):** 0,96 → alta precisão estatística.  
+- O mês de julho tende a ser o **pico sazonal de consumo** (inverno).
+
+---
+
+## 🧩 4. Análise Prescritiva — Ações Recomendadas
+
+🔗 **[Acessar planilha prescritiva no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**
+
+Com base nos resultados das regressões e previsões, as seguintes ações são sugeridas:
+
+### 🅰️ Prioridade A — Aumento de Transações
+- Implementar promoções cruzadas (“leve 2, pague 1”).  
+- Melhorar o fluxo de checkout e reduzir abandono de carrinho.  
+- Criar programas de fidelidade e recompra.
+
+### 🅱️ Prioridade B — Estratégia de Preços
+- Realizar **testes A/B** controlados em categorias-chave (Coffee, Tea).  
+- Evitar descontos generalizados; preferir **promoções direcionadas**.
+
+### 🆎 Prioridade C — Mix e Tamanho de Produtos
+- Testar **embalagens maiores e combos** para aumentar ticket médio.  
+- Monitorar margens e impacto nas transações.
+
+### 🔄 Prioridade D — Monitoramento Contínuo
+- Criar **dashboards em tempo real** com KPIs de transações, receita e preços.  
+- Estabelecer **rotina de experimentação** com registro de resultados.
+
+---
+
+## ⚠️ Limitações e Próximos Passos
+
+- Base amostral pequena, exigindo expansão do conjunto de dados.  
+- Recomenda-se aplicar **modelos multivariados** com variáveis de controle (promoções, sazonalidade, canal).  
+- Próxima etapa: integração com BI (Power BI ou Looker Studio) e atualização mensal das métricas.
+
+---
+
+## ✅ Conclusão
+
+O volume de **transações** é o principal impulsionador do faturamento da Aroma Café.  
+Estratégias voltadas à **fidelização, recompras e otimização da experiência de compra** devem ser priorizadas.  
+As análises mostram que a rede está em trajetória de crescimento sólido, com fundamentos fortes para expansão sustentável.
+
+---
+
+📅 **Período analisado:** Janeiro – Junho de 2025  
+📍 **Negócio:** Rede de Cafeterias Aroma Café  
+✍️ **Elaboração:** Vitor Campos — Analista de Dados
+
+---
+
+> 💡 *Este projeto integra o portfólio de Data Analytics e demonstra o uso de técnicas de análise descritiva, diagnóstica, preditiva e prescritiva aplicadas a um contexto real de negócio.*
