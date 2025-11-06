@@ -1,4 +1,4 @@
-[Relatorio_Aroma_Cafe_Diagnostica.pdf](https://github.com/user-attachments/files/23403730/Relatorio_Aroma_Cafe_Diagnostica.pdf)[Relatorio_Aroma_Cafe_Diagnostica.pdf](https://github.com/user-attachments/files/23403713/Relatorio_Aroma_Cafe_Diagnostica.pdf)# 📊 Análises de Dados — Rede de Cafeterias Aroma Café
+📊 Análises de Dados — Rede de Cafeterias Aroma Café
 
 **Autor:** Vitor Campos  
 **Cargo:** Analista de Dados  
