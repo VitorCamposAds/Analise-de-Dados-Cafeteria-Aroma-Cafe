@@ -24,7 +24,7 @@ As análises estão organizadas em quatro etapas principais:
 ## 📈 1. Análise Descritiva — Saúde da Rede
 
 🔗 **[Visualizar painel interativo no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**  
-📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/1kH23c29RuvYmTnvzxj5Ss-9qzx-KCvhD/view?usp=sharing)**
+📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/1n8dGHthHGQ4qvqkE9MyPhUBBtv0TDy9z/view?usp=sharing)**
 
 **Principais resultados:**
 - 📈 Crescimento de **+104%** no faturamento entre janeiro e junho (R$ 81.677 → R$ 166.485).  
