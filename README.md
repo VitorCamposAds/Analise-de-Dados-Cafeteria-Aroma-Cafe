@@ -66,7 +66,7 @@ Pontos-chave:
 - **Erro médio do modelo:** 9%  
 - **Correlação (tempo x faturamento):** 0,96 → alta precisão estatística.  
 - O mês de julho tende a ser o **pico sazonal de consumo** (inverno).
-- [📄 Relatório PDF 3](https://drive.google.com/file/d/14TRX6DY_CrrDUfdGYUqFL_rnWZtxw5m5/view?usp=sharing).
+- [📄 Relatório PDF](https://drive.google.com/file/d/14TRX6DY_CrrDUfdGYUqFL_rnWZtxw5m5/view?usp=sharing).
 
 
 ---
@@ -93,6 +93,8 @@ Com base nos resultados das regressões e previsões, as seguintes ações são 
 ### 🔄 Prioridade D — Monitoramento Contínuo
 - Criar **dashboards em tempo real** com KPIs de transações, receita e preços.  
 - Estabelecer **rotina de experimentação** com registro de resultados.
+
+> 📎 **Relatório PDF — Ações Prescritivas:** [Acesse aqui](https://drive.google.com/file/d/14QiHg7QTTCBlHSY3Q4MoK4Qf-NBbaex_/view?usp=sharing)
 
 ---
 
