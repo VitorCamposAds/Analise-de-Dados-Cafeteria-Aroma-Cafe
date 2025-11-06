@@ -29,7 +29,7 @@ A análise descritiva revelou:
 - Categorias mais vendidas: **Coffee, Tea e Bakery**, representando mais de **80%** do volume total.  
 - Receita bem distribuída entre as três regiões (diferença < 2,5%), evidenciando **homogeneidade operacional**.  
 - Oportunidade estratégica: elevar o **ticket médio** e **diversificar o portfólio**.
-- - [📄 Relatório PDF](https://drive.google.com/file/d/1kH23c29RuvYmTnvzxj5Ss-9qzx-KCvhD/view?usp=sharing)
+- - [📄 Relatório PDF](https://drive.google.com/file/d/1kH23c29RuvYmTnvzxj5Ss-9qzx-KCvhD/view?usp=sharing).
 
 
 
@@ -46,7 +46,7 @@ Principais conclusões:
 - O **número de transações** mostrou-se o fator mais fortemente correlacionado ao crescimento do faturamento.  
 - As demais variáveis apresentaram tendências na direção esperada, porém sem significância estatística robusta.  
 - Tamanho amostral reduzido (4–9 observações) limita o poder inferencial — recomenda-se ampliar a base de dados.
-- [📄 Relatório PDF](https://drive.google.com/file/d/10kGdBZpVY-ox88B625mdNdS_-aigE4K-/view?usp=sharing)
+- [📄 Relatório PDF](https://drive.google.com/file/d/10kGdBZpVY-ox88B625mdNdS_-aigE4K-/view?usp=sharing).
 
 
 
@@ -66,6 +66,8 @@ Pontos-chave:
 - **Erro médio do modelo:** 9%  
 - **Correlação (tempo x faturamento):** 0,96 → alta precisão estatística.  
 - O mês de julho tende a ser o **pico sazonal de consumo** (inverno).
+- [📄 Relatório PDF 3](https://drive.google.com/file/d/14TRX6DY_CrrDUfdGYUqFL_rnWZtxw5m5/view?usp=sharing).
+
 
 ---
 
