@@ -2,7 +2,7 @@
 
 **Autor:** Vitor Campos  
 **Cargo:** Analista de Dados  
-**Ferramentas utilizadas:** Google Sheets · Excel · Estatística Descritiva · Regressão Linear · Análise Preditiva e Prescritiva
+**Ferramentas utilizadas:** Google Sheets · Estatística Descritiva · Regressão Linear · Análise Preditiva e Prescritiva
 
 ---
 
