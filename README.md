@@ -110,7 +110,7 @@ A rede apresenta **crescimento sólido e sustentável**, com fundamentos favorá
 
 ---
 
-📅 **Período analisado:** Janeiro – Junho de 2025  
+📅 **Período analisado:** Janeiro – Junho de 2023  
 📍 **Negócio:** Rede de Cafeterias Aroma Café  
 ✍️ **Elaboração:** Vitor Campos — Analista de Dados
 
