@@ -8,7 +8,7 @@
 
 ## 🧭 Visão Geral do Projeto
 
-Este repositório reúne uma sequência de análises realizadas sobre o desempenho da **Rede de Cafeterias Aroma Café**, abrangendo o período de **janeiro a junho de 2025**.  
+Este repositório reúne uma sequência de análises realizadas sobre o desempenho da **Rede de Cafeterias Aroma Café**, abrangendo o período de **janeiro a junho de 2023**.  
 
 O objetivo foi compreender a **evolução do faturamento**, identificar **padrões de consumo**, **projetar resultados futuros** e **propor recomendações estratégicas** baseadas em evidências.
 
@@ -16,7 +16,7 @@ As análises estão organizadas em quatro etapas principais:
 
 1. **Análise Descritiva** — Interpretação dos principais indicadores financeiros e operacionais.  
 2. **Análise Diagnóstica** — Investigação das causas por trás das variações de desempenho.  
-3. **Análise Preditiva** — Projeção de faturamento para julho/2025.  
+3. **Análise Preditiva** — Projeção de faturamento para julho/2023.  
 4. **Análise Prescritiva** — Recomendações de ações para otimização de resultados.
 
 ---
@@ -50,7 +50,7 @@ Foram testadas **cinco hipóteses** por meio de regressão linear, avaliando rel
 
 ---
 
-## 📊 3. Análise Preditiva — Projeção de Faturamento (Julho/2025)
+## 📊 3. Análise Preditiva — Projeção de Faturamento (Julho/2023)
 
 🔗 **[Acessar planilha preditiva no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**  
 📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/14TRX6DY_CrrDUfdGYUqFL_rnWZtxw5m5/view?usp=sharing)**
