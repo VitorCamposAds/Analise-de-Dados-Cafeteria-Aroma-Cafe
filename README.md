@@ -53,7 +53,7 @@ Foram testadas **cinco hipóteses** por meio de regressão linear, avaliando rel
 ## 📊 3. Análise Preditiva — Projeção de Faturamento (Julho/2023)
 
 🔗 **[Acessar planilha preditiva no Google Sheets](https://docs.google.com/spreadsheets/d/14yo_gb0y62u5emR8huUAsNgMzCEwznPpW3KyKsryiUk/edit?usp=sharing)**  
-📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/14TRX6DY_CrrDUfdGYUqFL_rnWZtxw5m5/view?usp=sharing)**
+📄 **[Baixar Relatório PDF](https://drive.google.com/file/d/1IrjeblI-g5AtVu7lgmIFXO8Z1j-PYeVt/view?usp=sharing)**
 
 | Indicador | Valor |
 |------------|--------|
