@@ -116,4 +116,4 @@ A rede apresenta **crescimento sólido e sustentável**, com fundamentos favorá
 
 ---
 
-> 💡 *Este projeto integra o portfólio de Data Analytics e demonstra o uso integrado das análises descritiva, diagnóstica, preditiva e prescritiva aplicadas a um contexto real de negócio.*
+> 💡 *Este projeto integra o portfólio de Data Analytics e demonstra o uso integrado das análises descritiva, diagnóstica, preditiva e prescritiva aplicadas a um de negócio.*
